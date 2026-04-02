@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "date": "Oct 24, 2023",
+    "description": "AWS Cloud Services",
+    "subtext": "Infrastructure monthly recurring",
+    "category": "OPERATIONS",
+    "type": "EXPENSE",
+    "amount": -1240.00
+  },
+  {
+    "id": 2,
+    "date": "Oct 23, 2023",
+    "description": "Global Client Payment",
+    "subtext": "Project: Horizon Q4 Alpha",
+    "category": "SERVICES",
+    "type": "INCOME",
+    "amount": 12500.00
+  },
+  {
+    "id": 3,
+    "date": "sept 27, 2021",
+    "description": "Global Client Payment",
+    "subtext": "Project: Horizon Q4 Alpha",
+    "category": "SERVICES",
+    "type": "INCOME",
+    "amount": 12500.00
+  },
+  {
+    "id": 4,
+    "date": "jan 20, 2024",
+    "description": "Global Client Payment",
+    "subtext": "Project: Horizon Q4 Alpha",
+    "category": "SERVICES",
+    "type": "INCOME",
+    "amount": 12500.00
+  },
+  {
+    "id": 5,
+    "date": "Dec 23, 2025",
+    "description": "Global Client Payment",
+    "subtext": "Project: Horizon Q4 Alpha",
+    "category": "SERVICES",
+    "type": "INCOME",
+    "amount": 12500.00
+  }
+  
+]
