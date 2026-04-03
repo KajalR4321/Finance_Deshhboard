@@ -43,7 +43,7 @@ const DashboardOverview = () => {
                     <p className="text-[11px] text-slate-400 leading-relaxed mb-4">
                         Allocation in emerging markets is showing strong momentum. Consider rebalancing.
                     </p>
-                    <button className="bg-emerald-400 text-[#1C1F2E] text-[10px] font-black uppercase tracking-widest py-2 px-4 rounded-xl hover:bg-emerald-300 transition-all">
+                    <button className="bg-emerald-400 text-[#1C1F2E] text-[10px] font-black uppercase tracking-widest py-2 px-4 rounded-xl hover:bg-emerald-300 transition-all cursor-pointer">
                         Review Strategy
                     </button>
                 </div>
