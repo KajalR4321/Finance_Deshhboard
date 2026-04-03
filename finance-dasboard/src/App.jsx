@@ -1,4 +1,4 @@
-import TransactionsTable from "./compnents/transection/Transection";
+
 import { Routes, Route, NavLink } from "react-router-dom";
 import { FiDollarSign, FiHome, FiZap, FiBell, FiSearch, FiChevronDown } from "react-icons/fi";
 
@@ -23,7 +23,7 @@ function App() {
           <NavLink to="/overview" className={({ isActive }) =>
             `flex items-center gap-3 px-4 py-3 rounded-xl text-sm font-semibold transition-all ${isActive ? "bg-[#1C1F2E] text-white shadow-md" : "text-slate-400 hover:bg-slate-50 hover:text-slate-900"}`
           }>
-            <FiHome className="text-lg" /> Overview
+            <FiHome className="text-lg" /> DashboardOverview
           </NavLink>
 
           <NavLink to="/transaction" className={({ isActive }) =>
