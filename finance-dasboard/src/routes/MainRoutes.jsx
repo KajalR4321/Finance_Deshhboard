@@ -1,6 +1,6 @@
 import React from 'react'
 import { Routes, Route, } from 'react-router-dom'
-import DashboardOverview from '../compnents/dashboard/Dashboard'
+import DashboardOverview from '../compnents/dashboard/Dashboard';
 
 import TransactionsTable from '../compnents/transection/Transection'
 import FinancialInsights from '../compnents/financialInsight/Financial'
